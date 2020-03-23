@@ -1,0 +1,40 @@
+body{
+  background-color: #323232;
+  text-align: center;
+
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: "Montserrat",sans-serif;
+}
+
+.huge{
+  font-size: 8rem;
+  font-weight: bold;
+  color: #00bdaa;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  margin-top:3%;
+
+}
+
+p{
+  color: #00bdaa;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  /* text-align: center; */
+  display: block;
+  padding: 2%;
+
+}
+
+
+.dice{
+  display: inline-block;
+  text-align: center;
+}
+
+.dice-image{
+  padding: 7%;
+  height: 200px;
+  width: 200px;
+}

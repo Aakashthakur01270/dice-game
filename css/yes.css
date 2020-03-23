@@ -1,0 +1,47 @@
+body{
+  background-image: url("https://www.thoughtco.com/thmb/nJzMp4R2gj70lTU1_7aE_QUDy28=/4288x2412/smart/filters:no_upscale()/close-up-of-dices-on-street-764849093-5a6f86210e23d90036767df7.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Montserrat",sans-serif;
+}
+
+h1{
+  margin-top: 10%;
+  width: 80%;
+}
+a{
+  color:#00bdaa;
+
+}
+li{
+  padding: 15%;
+}
+
+.huge{
+  font-size: 4rem;
+  font-weight: bold;
+  color: #00bdaa;
+  font-family: 'Lobster', cursive;
+  text-align: left;
+  /* width: 30% */
+  /* padding-top:10%; */
+
+}
+
+.hyperlink{
+  font-size: 4rem;
+  font-weight: bold;
+  color: #00bdaa;
+  font-family: 'Lobster', cursive;
+  text-align: right;
+  text-decoration: none;
+  list-style-type: none;
+  margin: 20% 30%;
+  /* padding: 10%; */
+
+}
